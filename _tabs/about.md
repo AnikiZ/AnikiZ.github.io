@@ -1,12 +1,3 @@
-<!--
- * @Author: Zeping Zhu
- * @Andrew ID: zepingz
- * @Date: 2022-08-25 14:35:45
- * @LastEditTime: 2022-08-25 17:51:49
- * @LastEditors: Zeping Zhu
- * @Description: 
- * @FilePath: /HomePage/AnikiZgithub.io/_tabs/about.md
--->
 ---
 title: About
 icon: fas fa-info-circle
