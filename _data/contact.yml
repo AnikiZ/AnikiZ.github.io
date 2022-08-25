@@ -4,8 +4,9 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/zeping-zhu-6a1534248/'
 -
   type: email
   icon: 'fas fa-envelope'
