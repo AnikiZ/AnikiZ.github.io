@@ -2,9 +2,12 @@
 title: About
 icon: fas fa-info-circle
 order: 4
+img_path: /assets/img/avtar/
 ---
 
 ### Hi there👋 😄
+
+![1](avatar.png)
 
 - 🎆 ECE Master's student at Carnegie Mellon University
 - 🌠 Interested in cooking🧑‍🍳 & traveling📸
