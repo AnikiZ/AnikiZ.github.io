@@ -25,8 +25,10 @@ title: AnikiZ                          # the main title
 
 tagline: My heart is in the work       # it will display as the sub-title
 
+# A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Zeping Zhu
+  
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://AnikiZ.github.io'
@@ -44,12 +46,11 @@ social:
   email: zepingz@andrew.cmu.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username      # change to your twitter homepage
-    - https://www.linkedin.com/in/zeping-zhu-6a1534248/ # change to my linkedln homepage
-    - https://github.com/AnikiZ       # change to your github homepage
+    - https://github.com/AnikiZ       # github homepage
+    - https://www.linkedin.com/in/zeping-zhu-6a1534248/ # my linkedln homepage
+    
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
 
@@ -84,7 +85,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/avatar/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
