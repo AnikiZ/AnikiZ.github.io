@@ -35,7 +35,7 @@ github:
   username: AnikiZ             # change to your github username
 
 twitter:
-  username: AnikiZ            # change to your twitter username
+  username: Zeping Zhu            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,7 +44,8 @@ social:
   email: zepingz@andrew.cmu.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://www.linkedin.com/in/zeping-zhu-6a1534248/ # change to my linkedln homepage
     - https://github.com/AnikiZ       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
