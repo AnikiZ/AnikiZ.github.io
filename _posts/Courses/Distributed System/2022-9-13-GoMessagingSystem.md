@@ -1,6 +1,6 @@
 ---
 title: Distributed System__Instant messaging system mode
-date: 2022-09-12 23:39:00 -0400
+date: 2022-09-12 23:39:00 +0400
 categories: [Courses, Distributed System]
 tags: [Go Instant messaging System Programming]
 img_path: /assets/img/Courses/Distributed System
